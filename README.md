@@ -19,3 +19,7 @@
 
 - [GitHubリポジトリ](https://github.com/esusaki/ScratchSearch)
 - [公開URL](https://scratchsearch.onrender.com/search?blocks-max=150&no-teigi=on)
+
+### 宇宙商店街でお買い物
+
+- [公開URL](https://scratch.mit.edu/projects/1071463257/)
