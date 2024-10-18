@@ -13,6 +13,10 @@
 ### SOZAI
 - [公開URL](https://sozai-new.vercel.app/)
 
+### textval
+- [公開URL](https://chromewebstore.google.com/detail/textval/edhdcmcmaiakchhcembkhonndipcmeob)
+- [デモページURL](https://demo-textval.vercel.app/)
+
 ## 個人開発
 
 ### ScratchSearch
