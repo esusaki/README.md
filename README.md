@@ -1,7 +1,8 @@
 ## 好きな言語
 
-- Python
-- Scratch
+🐍Python
+
+😼Scratch
 
 ## チーム開発
 
