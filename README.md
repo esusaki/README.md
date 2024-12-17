@@ -28,3 +28,7 @@
 ### 宇宙商店街でお買い物
 
 - [公開URL](https://scratch.mit.edu/projects/1071463257/)
+
+## 記事
+
+- [Zenn](https://zenn.dev/esusaki)
