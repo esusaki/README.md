@@ -12,7 +12,7 @@
 - [公開URL](https://zasetu-portolio.vercel.app/)
 
 ### SOZAI
-- [公開URL](https://sozai-new.vercel.app/)
+- [公開URL](https://soz-ai.com/)
 
 ### textval
 - [公開URL](https://chromewebstore.google.com/detail/textval/edhdcmcmaiakchhcembkhonndipcmeob)
